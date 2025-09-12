@@ -1,0 +1,12 @@
+p {
+    color: red;
+    text-align: center;
+    background-color: aqua;
+}
+
+img {
+    max-width: 250px;
+    max-height: 250px;
+    width: auto;
+    height: auto;
+}
